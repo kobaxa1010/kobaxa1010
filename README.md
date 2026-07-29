@@ -42,7 +42,7 @@ I learn by building — writing Python tools, practicing on Linux, and documenti
 
 | Project | Description | Status |
 |---|---|---|
-| 🔐 [Password Generator](https://github.com/yourusername/password-generator) | Python + Tkinter app that generates secure random passwords | ✅ Done |
+| 🔐 [Password Generator](https://github.com/kobaxa1010/password-generator) | Python + Tkinter app that generates secure random passwords | ✅ Done |
 
 *More security-focused tools coming soon: port scanner, log analyzer, hash tool...*
 
@@ -61,11 +61,11 @@ I learn by building — writing Python tools, practicing on Linux, and documenti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kobaxa1010&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobaxa1010&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
