@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0aa3ff&height=180&section=header&text=NIKA&fontSize=72&fontAlignY=35" width="100%" />
-</p>
+<h1 align="center">Nika</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AA3FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Developer;Learning+Blue+Team+Defense;Linux+%26+Networking+Enthusiast" alt="Typing SVG" />
@@ -55,8 +53,4 @@ I learn by building small Python tools, breaking them, fixing them, and document
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img src="https://img.shields.io/badge/Discord-0aa3ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=0b1220" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0aa3ff&height=100&section=footer" width="100%" />
 </p>
