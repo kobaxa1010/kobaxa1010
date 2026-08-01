@@ -1,7 +1,5 @@
-<h1 align="center">Nika</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AA3FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Developer;Learning+Blue+Team+Defense;Linux+%26+Networking+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%24+whoami;nika+%E2%80%94+cybersecurity+student;%24+cat+status.txt;learning+blue+team+%2B+python" alt="Terminal" />
 </p>
 
 ---
