@@ -59,7 +59,7 @@ Python + Tkinter desktop app that generates secure, customizable random password
 ## CONTACT
 
 <p align="center">
-  <a href="https://discord.com/users/1341441427502272623">
-    <img src="https://img.shields.io/badge/Discord-opkovalsky-0aa3ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=0b1220" />
+  <a href="mailto:kobaxa166@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kobaxa166%40gmail.com-0aa3ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220" />
   </a>
 </p>
