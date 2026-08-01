@@ -10,8 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=888888&center=false&vCenter=true&width=600&lines=16+years+old+%7C+Based+in+Georgia+%F0%9F%87%AC%F0%9F%87%AA;Focused+on+Blue+Team+%2F+defensive+security;Learning+by+building+-+not+just+tutorials" alt="Typing SVG" />
 </p>
 
-I'm not chasing shortcuts - I want to actually understand how things work under the hood.
-I learn by building small Python tools, breaking them, fixing them, and documenting what I learn.
+I'm a 16-year-old cybersecurity student with a strong interest in defensive security and Blue Team operations. I'm focused on understanding how systems, networks, and security technologies work by building tools, studying real-world concepts, and documenting everything I learn. I'm working toward developing practical skills in threat detection, incident response, system hardening, and security monitoring through continuous hands-on practice.
 
 ---
 
