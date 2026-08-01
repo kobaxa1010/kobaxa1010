@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%24+whoami;Nilokoz+kobaxidze+-+cybersecurity+student" alt="Terminal" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0aa3ff&height=150&section=header&text=Nilokoz%20Kobaxidze&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Student&descAlignY=65&descSize=18" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&pause=1500&color=0AA3FF&center=true&vCenter=true&width=500&lines=Blue+Team+%2F+Defensive+Security;Python+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
