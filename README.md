@@ -34,11 +34,16 @@ I learn by building small Python tools, breaking them, fixing them, and document
 
 ## PROJECTS
 
-| Project | Description | Status |
-|---|---|---|
-| 🔐 [Password Generator](https://github.com/kobaxa1010/password-generator) | Python + Tkinter app that generates secure random passwords | ✅ Done |
+### 🔐 Password Generator
+Python + Tkinter desktop app that generates secure, customizable random passwords with a simple GUI.
 
-*More security-focused tools coming soon: port scanner, log analyzer, hash tool...*
+`Python` `Tkinter` `GUI`
+
+[**→ View Repository**](https://github.com/kobaxa1010/password-generator)
+
+<br>
+
+> More security-focused tools in progress: port scanner, log analyzer, hash tool...
 
 ---
 
@@ -55,10 +60,5 @@ I learn by building small Python tools, breaking them, fixing them, and document
 ## CONTACT
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-0aa3ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b1220" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-0aa3ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=0b1220" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-opkovalsky-0aa3ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=0b1220" />
 </p>
