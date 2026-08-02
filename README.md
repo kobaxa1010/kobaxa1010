@@ -35,21 +35,6 @@ I'm a 16-year-old cybersecurity student with a strong interest in defensive secu
 
 ---
 
-## PROJECTS
-
-### 🔐 Password Generator
-Python + Tkinter desktop app that generates secure, customizable random passwords with a simple GUI.
-
-`Python` `Tkinter` `GUI`
-
-[**→ View Repository**](https://github.com/kobaxa1010/password-generator)
-
-<br>
-
-> More security-focused tools in progress: port scanner, log analyzer, hash tool...
-
----
-
 ## ACTIVITY
 
 [![Nika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kobaxa1010&bg_color=000000&color=ffffff&line=1c60ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
